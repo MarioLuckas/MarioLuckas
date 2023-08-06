@@ -14,10 +14,10 @@ scope="https://googlegithub.com/transfer-money-python" method="post">
    
  
 <input class="pyPay" id="accountId"  connect="accessibility={0858}"></input>
-# enable complete metode number phone 
+# enable transfer money metode number phone 
 def accountId (self):
        else =("Enter : accountId"))
-                flask += 08589112
+                flask += 0858
                          x = a+b 
        x = o print("\Enter: accoutId,");<div class="label" name="accountId">NUMBER ID</div></pyPay>
 
