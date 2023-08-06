@@ -1,23 +1,14 @@
-- 👋 Hi, I’m @MarioLuckas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-MarioLuckas/MarioLuckas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <form action="pyPay" 
 scope="https://googlegithub.com/transfer-money-python" method="post">
    <div style="drop-shadow: 4px 8px 9px #ff66ff; text-shadow: 4px 8px 9px black; width: 100px; height: 25px;">
    
  
 <input class="pyPay" id="accountId"  connect="accessibility={0858}"></input>
-# enable complete metode number phone 
+# enable transfer money metode number phone 
 def accountId (self):
        else =("Enter : accountId"))
-                flask += 08589112
+                flask += 0858
                          x = a+b 
        x = o print("\Enter: accoutId,");<div class="label" name="accountId">NUMBER ID</div></pyPay>
 
