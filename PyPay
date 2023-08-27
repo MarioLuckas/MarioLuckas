@@ -2,7 +2,7 @@
 <head>
 <body>
 <form action="pyPay" 
-scope="https://googlegithub.com/transfer-money-python" method="post">
+ method="post">
    <div style="drop-shadow: 4px 8px 9px #ff66ff; text-shadow: 4px 8px 9px black; width: 100px; height: 25px;">
    
  
