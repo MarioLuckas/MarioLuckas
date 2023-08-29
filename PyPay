@@ -4,6 +4,7 @@
 <form action="PyPay" 
  method="post">
 <div style="drop-shadow: 4px 8px 9px #ff66ff; text-shadow: 4px 8px 9px black; width: 100px; height: 25px;">
+
 <input class="PyPay" Id="accountId"  connect="visibility={0858}">NUMBER ID</div></PyPay>
 <input class="PyPay" Id="total_IDR">TOTAL IDR</div></PyPay>
 <input class="pyPay" id="Event_Info" connect="visibility={0858}">Event Information</div></pyPay>
@@ -13,5 +14,6 @@
 </div>
 </head>
 </body>
+</html>
 
 
